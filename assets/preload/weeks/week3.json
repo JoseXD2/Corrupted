@@ -1,0 +1,40 @@
+{
+	"storyName": "action night",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "pico",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Gunshot",
+			"picon",
+			[
+				155,
+				180,
+				95
+			]
+		],
+		[
+			"bullets",
+			"picon",
+			[
+				155,
+				180,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "week3"
+}

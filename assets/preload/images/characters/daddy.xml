@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="daddy.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="daddy down instancia 10000" x="0" y="0" width="740" height="772" frameX="0" frameY="0" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy down instancia 10001" x="740" y="0" width="742" height="770" frameX="0" frameY="-2" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy down instancia 10002" x="1482" y="0" width="752" height="742" frameX="0" frameY="-33" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy down instancia 10003" x="2234" y="0" width="799" height="721" frameX="0" frameY="-54" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy down instancia 10004" x="3033" y="0" width="672" height="734" frameX="0" frameY="-15" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy down instancia 10005" x="3033" y="0" width="672" height="734" frameX="0" frameY="-15" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy down instancia 10006" x="3033" y="0" width="672" height="734" frameX="0" frameY="-15" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy down instancia 10007" x="3033" y="0" width="672" height="734" frameX="0" frameY="-15" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy down instancia 10008" x="3033" y="0" width="672" height="734" frameX="0" frameY="-15" frameWidth="799" frameHeight="775"/>
+	<SubTexture name="daddy idle instancia 10000" x="3705" y="0" width="931" height="811" frameX="-11" frameY="-10" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10001" x="4636" y="0" width="1065" height="811" frameX="0" frameY="-10" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10002" x="5701" y="0" width="959" height="813" frameX="-68" frameY="-7" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10003" x="6660" y="0" width="699" height="813" frameX="-116" frameY="-7" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10004" x="7359" y="0" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10005" x="0" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10006" x="698" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10007" x="1396" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10008" x="2094" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10009" x="2792" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10010" x="3490" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10011" x="3490" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10012" x="3490" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy idle instancia 10013" x="3490" y="820" width="698" height="820" frameX="-124" frameY="0" frameWidth="1065" frameHeight="821"/>
+	<SubTexture name="daddy left instancia 10000" x="4188" y="820" width="704" height="1011" frameX="-30" frameY="0" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy left instancia 10001" x="4892" y="820" width="704" height="1011" frameX="-30" frameY="0" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy left instancia 10002" x="5596" y="820" width="740" height="972" frameX="0" frameY="-22" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy left instancia 10003" x="6336" y="820" width="561" height="972" frameX="-179" frameY="-22" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy left instancia 10004" x="6897" y="820" width="558" height="965" frameX="-194" frameY="-29" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy left instancia 10005" x="6897" y="820" width="558" height="965" frameX="-194" frameY="-29" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy left instancia 10006" x="6897" y="820" width="558" height="965" frameX="-194" frameY="-29" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy left instancia 10007" x="6897" y="820" width="558" height="965" frameX="-194" frameY="-29" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy left instancia 10008" x="6897" y="820" width="558" height="965" frameX="-194" frameY="-29" frameWidth="752" frameHeight="1011"/>
+	<SubTexture name="daddy right instancia 10000" x="0" y="1831" width="924" height="845" frameX="0" frameY="-6" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy right instancia 10001" x="924" y="1831" width="924" height="845" frameX="0" frameY="-6" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy right instancia 10002" x="1848" y="1831" width="861" height="847" frameX="0" frameY="-4" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy right instancia 10003" x="2709" y="1831" width="861" height="847" frameX="0" frameY="-4" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy right instancia 10004" x="3570" y="1831" width="833" height="851" frameX="0" frameY="0" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy right instancia 10005" x="3570" y="1831" width="833" height="851" frameX="0" frameY="0" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy right instancia 10006" x="3570" y="1831" width="833" height="851" frameX="0" frameY="0" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy right instancia 10007" x="3570" y="1831" width="833" height="851" frameX="0" frameY="0" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy right instancia 10008" x="3570" y="1831" width="833" height="851" frameX="0" frameY="0" frameWidth="924" frameHeight="851"/>
+	<SubTexture name="daddy_up instancia 10000" x="4403" y="1831" width="564" height="1056" frameX="-103" frameY="0" frameWidth="682" frameHeight="1056"/>
+	<SubTexture name="daddy_up instancia 10001" x="4967" y="1831" width="609" height="1056" frameX="-58" frameY="0" frameWidth="682" frameHeight="1056"/>
+	<SubTexture name="daddy_up instancia 10002" x="5576" y="1831" width="671" height="1026" frameX="0" frameY="-30" frameWidth="682" frameHeight="1056"/>
+	<SubTexture name="daddy_up instancia 10003" x="6247" y="1831" width="546" height="1026" frameX="-125" frameY="-30" frameWidth="682" frameHeight="1056"/>
+	<SubTexture name="daddy_up instancia 10004" x="6793" y="1831" width="557" height="1008" frameX="-125" frameY="-48" frameWidth="682" frameHeight="1056"/>
+	<SubTexture name="daddy_up instancia 10005" x="6793" y="1831" width="557" height="1008" frameX="-125" frameY="-48" frameWidth="682" frameHeight="1056"/>
+	<SubTexture name="daddy_up instancia 10006" x="6793" y="1831" width="557" height="1008" frameX="-125" frameY="-48" frameWidth="682" frameHeight="1056"/>
+	<SubTexture name="daddy_up instancia 10007" x="6793" y="1831" width="557" height="1008" frameX="-125" frameY="-48" frameWidth="682" frameHeight="1056"/>
+	<SubTexture name="daddy_up instancia 10008" x="6793" y="1831" width="557" height="1008" frameX="-125" frameY="-48" frameWidth="682" frameHeight="1056"/>
+</TextureAtlas>

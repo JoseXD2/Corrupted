@@ -1,0 +1,31 @@
+{
+	"storyName": "it only remains to survive",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "spoky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"last spooktober",
+			"spooky",
+			[
+				240,
+				180,
+				95
+			]
+		]
+	],
+	"weekName": "week3"
+}

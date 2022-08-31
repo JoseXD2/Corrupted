@@ -1,0 +1,41 @@
+{
+	"storyName": "something is wrong...",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "dd",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"blue balled",
+			"bft",
+			[
+				106,
+				193,
+				255
+			]
+		],
+		[
+			"demonic-battle",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
